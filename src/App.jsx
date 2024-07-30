@@ -5,7 +5,7 @@ import SignUp from './SignUp'
 const App = () => {
   return (
     <div  className='bg-[#E5E5E5] '>
-        {/* <Login/> */}
+        <Login/>
         <SignUp/>
     </div>
   )
